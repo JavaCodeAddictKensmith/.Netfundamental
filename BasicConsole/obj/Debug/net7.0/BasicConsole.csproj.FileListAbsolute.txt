@@ -1,0 +1,15 @@
+/Users/mac/Documents/BasicConsole/BasicConsole/bin/Debug/net7.0/BasicConsole
+/Users/mac/Documents/BasicConsole/BasicConsole/bin/Debug/net7.0/BasicConsole.deps.json
+/Users/mac/Documents/BasicConsole/BasicConsole/bin/Debug/net7.0/BasicConsole.runtimeconfig.json
+/Users/mac/Documents/BasicConsole/BasicConsole/bin/Debug/net7.0/BasicConsole.dll
+/Users/mac/Documents/BasicConsole/BasicConsole/bin/Debug/net7.0/BasicConsole.pdb
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.csproj.AssemblyReference.cache
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.AssemblyInfoInputs.cache
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.AssemblyInfo.cs
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.dll
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/refint/BasicConsole.dll
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.pdb
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/BasicConsole.genruntimeconfig.cache
+/Users/mac/Documents/BasicConsole/BasicConsole/obj/Debug/net7.0/ref/BasicConsole.dll
